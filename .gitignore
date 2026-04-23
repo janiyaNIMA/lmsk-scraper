@@ -42,3 +42,4 @@ Data/
 # OS
 .DS_Store
 Thumbs.db
+scratch/test_api.py
